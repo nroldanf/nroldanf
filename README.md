@@ -31,7 +31,5 @@
 
 <p align="center">
     <a href="https://github.com/nroldanf?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/nroldanf" target="_blank"><img alt="nroldanf" src="https://badges.pufler.dev/visits/nroldanf/nroldanf?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/nroldanf" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/nroldanf/nroldanf?label=hits&style=flat-square"></a>
     <a href="https://github.com/nroldanf/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/nroldanf/nroldanf?label=profile%20updated&style=flat-square"></a>
 </p>
