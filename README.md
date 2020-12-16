@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p>
+<p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">  
-<\p>
+</p>
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning Development.
 - 🌱 I’m currently learning Advanced Computer Vision and Voice Analysis
