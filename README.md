@@ -30,6 +30,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nroldanf&count_private=true&show_icons=true&include_all_commits=true)
 
 <p align="center">
-    <a href="https://github.com/nroldanf?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/nroldanf/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/nroldanf/nroldanf?label=profile%20updated&style=flat-square"></a>
 </p>
