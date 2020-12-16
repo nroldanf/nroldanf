@@ -35,5 +35,5 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
+![](https://komarev.com/ghpvc/?username=nroldanf&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=nroldanf.nroldanf)
