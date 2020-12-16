@@ -83,9 +83,17 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=nroldanf&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<div>
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=nroldanf&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%"/>  
+  </div>
+  <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nroldanf&hide_border=true&layout=compact" align="right" style="width: 100%" />
+</div>  
+</div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nroldanf&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>  
+
+
 
 <br/>  
 
