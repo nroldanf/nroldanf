@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">  
+<\p>
+
 - 🔭 I’m currently working on Machine Learning and Deep Learning Development.
 - 🌱 I’m currently learning Advanced Computer Vision and Voice Analysis
 - 💬 Ask me about AWS, Digital Image Processing, Biomedical Signal Processing, Machine Learning, and Backend Development
