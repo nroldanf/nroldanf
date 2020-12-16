@@ -9,13 +9,13 @@
 - 🔭 I’m currently working at [Work.r](https://www.workr.com.co/) as a Data Scientist 🧑‍🔬  
   
 
-- 🌱 I’m currently learning Deep Learning based Computer Vision Techniques (Instance Segmentation and Object Detection) 👁️‍🗨️  
+- 🌱 Learning Deep Learning based Computer Vision Techniques (Instance Segmentation and Object Detection) 👁️‍🗨️  
   
 
 - ❓ Ask me about anything related to AWS and Python Data Science tools 💻  
   
 
-- :computer: Experienced in Natural Language Processing (spaCy, NLTK, Hugging Face), Computer Vision (OpenCV, scikit-image, torchvision) and Basic Recommender Systems (scikit-learn, surprise)
+- :computer: Experienced in Natural Language Processing NER, Classification, Topic Modelling and semantic similarity (spaCy, NLTK, Hugging Face), Computer Vision and Digital Image Processing (OpenCV, scikit-image, torchvision) and Basic Recommender Systems based on user and item similarity (scikit-learn, surprise).
 
 
 - ![AWS](https://camo.githubusercontent.com/1c371748f30438eafd069cd2e55f401a4bdc5b43cadc247324fb7785333e95ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773) Machine Learning Specialty Certified (May-2020)
@@ -46,7 +46,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,6 +60,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 </div>
 
 </td></tr></table>  
