@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Machine Learning and Deep Learning Development.
 - 🌱 I’m currently learning Advanced Computer Vision and Voice Analysis
 - 💬 Ask me about AWS, Digital Image Processing, Biomedical Signal Processing, Machine Learning, and Backend Development
-- 📫 Feel free to reach me on:
+#### 📫 Feel free to reach me on:
 
 <p align="center">
     <a href="https://github.com/nroldanf" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@nroldanf-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
