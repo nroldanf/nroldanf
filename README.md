@@ -25,7 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![LaTeX](https://github.com/alwinw?tab=repositories&language=TeX)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nroldanf&count_private=true&show_icons=true&include_all_commits=true)
 
