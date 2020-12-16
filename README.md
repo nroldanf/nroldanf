@@ -1,36 +1,92 @@
-## Hi there 👋
+<div align="center">
+<img src="https://miro.medium.com/max/1575/1*f9AkUllzd2wJa3kDbJUJNQ.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<p align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">  
-</p>
+### <div align="center">Hi I'm Nicolás, a data scientist/machine learning developer 👨‍💻</div>  
+  
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning Development.
-- 🌱 I’m currently learning Advanced Computer Vision and Voice Analysis
-- 💬 Ask me about AWS, Digital Image Processing, Biomedical Signal Processing, Machine Learning, and Backend Development
-#### 📫 Feel free to reach me on:
+- 🔭 I’m currently working at [Work.r](https://www.workr.com.co/) as a Data Scientist 🧑‍🔬  
+  
 
-<p align="center">
-    <a href="https://github.com/nroldanf" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@nroldanf-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/nicolas-roldan-fajardo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Nicolas_Roldan_Fajardo" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+- 🌱 I’m currently learning Deep Learning based Computer Vision Techniques 👁️‍🗨️  
+  
+
+- ❓ Ask me about anything related AWS and Python related technologies 💻  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 
-## ⚡ Technologies I use
+### Languages  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+</td><td valign="top" width="33%">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nroldanf&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nroldanf&hide=TeX&layout=compact)
 
-<p align="center">
-    <a href="https://github.com/nroldanf/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/nroldanf/nroldanf?label=profile%20updated&style=flat-square"></a>  
-</p>
 
+### Backend and DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/nroldanf" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nicolas-roldan-fajardo" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=nroldanf&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nroldanf&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>  
+
+<br/>  
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nroldanf&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
