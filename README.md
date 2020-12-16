@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Deep Learning based Computer Vision Techniques (Instance Segmentation and Object Detection) 👁️‍🗨️  
   
 
-- ❓ Ask me about anything related AWS and Python related technologies 💻  
+- ❓ Ask me about anything related to AWS and Python Data Science tools 💻  
   
 
 - :computer: Experienced in Natural Language Processing (spaCy, NLTK, Hugging Face), Computer Vision (OpenCV, scikit-image) and Basic Recommender Systems (scikit-learn, surprise)
