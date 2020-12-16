@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">  
@@ -33,3 +33,7 @@
 <p align="center">
     <a href="https://github.com/nroldanf/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/nroldanf/nroldanf?label=profile%20updated&style=flat-square"></a>
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
