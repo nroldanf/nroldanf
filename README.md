@@ -83,24 +83,17 @@
 
 
 ## Github Stats  
-<div>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nroldanf&show_icons=true&count_private=true&hide_border=false" align="center" style="width: 100%"/>  
   </div>
+  
+  <br/>  
+
+  <br/>  
+
+  
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nroldanf&hide_border=false&layout=compact" align="center" style="width: 100%" />
 </div>  
-</div>
-
-
-
-
-<br/>  
-
-
-
-
-<br/>  
-
 
 <br />
