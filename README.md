@@ -11,9 +11,6 @@
     <a href="https://www.researchgate.net/profile/Nicolas_Roldan_Fajardo" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nroldanf&hide=TeX&layout=compact)
-
-
 
 ## ⚡ Technologies I use
 
@@ -27,6 +24,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nroldanf&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nroldanf&hide=TeX&layout=compact)
 
 <p align="center">
     <a href="https://github.com/nroldanf/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/nroldanf/nroldanf?label=profile%20updated&style=flat-square"></a>
