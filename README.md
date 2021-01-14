@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at [Work.r](https://www.workr.com.co/) as a Data Scientist 🧑‍🔬  
   
 
-- 🌱 Learning Deep Learning based Computer Vision Techniques (Instance Segmentation and Object Detection) 👁️‍🗨️  
+- 🌱 Learning Deep Learning based Computer Vision Techniques (Instance Segmentation, Object Detection and Generative Deep Learning) 👁️‍🗨️  
   
 
 - ❓ Ask me about anything related to AWS and Python Data Science tools 💻  
