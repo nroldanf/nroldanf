@@ -52,6 +52,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png" alt="spaCy" height="50"/>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="spaCy" height="50"/>
 <img style="margin: 10px" src="https://www.dlf.pt/dfpng/middlepng/201-2012017_plotly-dash-logo-png-download-plotly-dash-logo.png" alt="dash", height="50">
+<img style="margin: 10px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182db827fa0659541754_RGB_Logo_Vertical_Color_Light_Bg.png" alt="dash", height="50">
 </div>
 
 </td><td valign="top" width="33%">
