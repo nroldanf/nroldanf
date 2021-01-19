@@ -51,6 +51,7 @@
 <img style="margin: 10px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" height="50"/>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png" alt="spaCy" height="50"/>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="spaCy" height="50"/>
+<img style="margin: 10px" src="https://www.dlf.pt/dfpng/middlepng/201-2012017_plotly-dash-logo-png-download-plotly-dash-logo.png" alt="dash", height="50">
 </div>
 
 </td><td valign="top" width="33%">
