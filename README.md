@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://miro.medium.com/max/1575/1*f9AkUllzd2wJa3kDbJUJNQ.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Hi I'm Nicolás, a data scientist/machine learning developer 👨‍💻</div>  
   
