@@ -3,10 +3,10 @@
 ### <div align="center">Hi I'm Nicolás, a data scientist/machine learning developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working at [Work.r](https://www.workr.com.co/) as a Data Scientist 🧑‍🔬  
+- 🔭 I’m currently working at [Loka](https://www.loka.com/) Machine Learning Engineer 🧑‍🔬  
   
 
-- 🌱 Learning Deep Learning based Computer Vision Techniques (Instance Segmentation, Object Detection and Generative Deep Learning) and Tensorflow 👁️‍🗨️  
+- 🌱 Learning Machine Learning Operations (MLOps), Distributed training strategies and GPU and ASIC's based data science (rapids ai, dask, Numba, etc) 👁️‍🗨️  
   
 
 - ❓ Ask me about anything related to AWS and Python Data Science tools 💻  
