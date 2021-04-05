@@ -9,7 +9,7 @@
 - 🌱 Learning Machine Learning Operations (MLOps), Distributed training strategies and GPU, ASIC's based data science and ways to accelerate performance of multiple machine learning and python processes (Rapids AI, Dask, Numba, etc) 👁️‍🗨️  
   
 
-- ❓ Ask me about anything related to AWS and Python Data Science tools 💻  
+- ❓ Ask me about anything related to AWS, Python Data Science tools and Biomedical Signal and Image processing 💻  
   
 
 - :computer: Experience in Natural Language Processing tasks like Named Entity Recognition, Part of Speech Tagging, Dependency Parsing, Text Classification, Topic Modelling and Semantic Similarity (spaCy, NLTK, Hugging Face), Computer Vision and Digital Image Processing (OpenCV, scikit-image, torchvision) and Basic Recommender Systems based on user and item similarity (scikit-learn, surprise, AWS Personalize).
