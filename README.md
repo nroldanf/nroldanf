@@ -3,7 +3,7 @@
 ### <div align="center">Hi I'm Nicolás, a data scientist/machine learning developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working at [Loka](https://www.loka.com/) as a Machine Learning Engineer 🧑‍🔬  
+- 🔭 I’m currently working at [Loka Inc](https://www.loka.com/) as a Machine Learning Engineer 🧑‍🔬  
   
 
 - 🌱 Learning Machine Learning Operations (MLOps), Distributed training strategies and GPU, ASIC's based data science and ways to accelerate performance of multiple machine learning and python processes (Rapids AI, Dask, Numba, etc) 👁️‍🗨️  
