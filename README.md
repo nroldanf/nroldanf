@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to AWS, Python Data Science tools and Biomedical Signal and Image processing 💻  
   
 
-- :computer: Experience in Natural Language Processing tasks like Named Entity Recognition, Part of Speech Tagging, Dependency Parsing, Text Classification, Topic Modelling and Semantic Similarity (spaCy, NLTK, Hugging Face), Computer Vision and Digital Image Processing (OpenCV, scikit-image, torchvision) and Basic Recommender Systems based on user and item similarity (scikit-learn, surprise, AWS Personalize).
+- :computer: Experience in Natural Language Processing tasks like Named Entity Recognition, Part of Speech Tagging, Dependency Parsing, Text Classification, Topic Modelling and Semantic Similarity (spaCy, NLTK, Hugging Face), Computer Vision and Digital Image Processing (OpenCV, scikit-image, tensorflow) and Basic Recommender Systems based on user and item similarity (scikit-learn, surprise, AWS Personalize).
 
 
 - ![AWS](https://camo.githubusercontent.com/1c371748f30438eafd069cd2e55f401a4bdc5b43cadc247324fb7785333e95ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773) Machine Learning Specialty Certified (May-2020)
