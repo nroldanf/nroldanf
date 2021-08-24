@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hi I'm Nicolás, a data scientist/machine learning developer 👨‍💻</div>  
+### <div align="center">Hi I'm Nicolás, a machine learning developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working at [Loka Inc](https://www.loka.com/) as a Machine Learning Engineer 🧑‍🔬  
