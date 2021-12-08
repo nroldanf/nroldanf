@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at [Loka Inc](https://www.loka.com/) as a Machine Learning Engineer 🧑‍🔬  
   
 
-- 🌱 Learning Machine Learning Operations (MLOps), Distributed training strategies and GPU, ASIC's based data science and ways to accelerate performance of multiple machine learning and python processes (Rapids AI, Dask, Numba, etc) 👁️‍🗨️  
+- 🌱 Learning Machine Learning Operations (MLOps), Distributed training strategies and GPU, ASIC's based data science and ways to accelerate performance of multiple machine learning and python processes (Rapids AI, Dask, Numba, etc) and some Data orchestration tools (Apache Airflow) 👁️‍🗨️  
   
 
 - ❓ Ask me about anything related to AWS, Python Data Science tools and Biomedical Signal and Image processing 💻  
